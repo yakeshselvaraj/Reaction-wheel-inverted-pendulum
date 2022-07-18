@@ -3,5 +3,6 @@
  
  
  
- HARDWARE SETUP 
+ HARDWARE SETUP
+	
  The base of the system is a stepper motor driven linear stage. The stage consists of a v-slot rail with a Nema 23 stepper motor mounted on one end utilizing a belt drive to move the pendulum base along the rail. The stepper is controlled manually using push button switches, an Arduino Uno, and a stepper driver in an open loop control configuration
